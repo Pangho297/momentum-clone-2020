@@ -8,7 +8,7 @@ body {
   font-family: "Roboto", sans-serif;
 }
 
-.weget {
+.widget {
   display: flex;
   flex-direction: column;
   justify-content: center;
