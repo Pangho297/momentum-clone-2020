@@ -1,0 +1,25 @@
+li {
+  list-style: none;
+}
+
+.js-todolist {
+  margin-top: 10px;
+}
+
+.js-todolist > li {
+  display: flex;
+  justify-content: center;
+  margin-top: 5px;
+}
+
+.js-todolist button {
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  background-color: #f4f4f4;
+}
+
+.js-todolist span {
+  margin-left: 8px;
+  color: #f4f4f4;
+}

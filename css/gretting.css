@@ -9,12 +9,14 @@
 
 .js-clock {
   font-size: 95px;
+  color: #f4f4f4;
 }
 
 input {
+  margin: 8px 0px;
   border: 0px;
   outline: 0px;
-  border-bottom: 2px solid #11998e;
+  border-bottom: 2px solid #f4f4f4;
   width: 300px;
   height: 40px;
   text-align: center;
@@ -22,15 +24,14 @@ input {
 }
 
 input:focus {
-  color: #11998e;
+  color: #f4f4f4;
   font-size: 24px;
   text-align: center;
 }
 
 ::placeholder {
-  color: #11998e;
+  color: #f4f4f4;
   font-size: 24px;
-  text-align: center;
 }
 
 .js-greetings {
